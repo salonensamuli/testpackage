@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "testpackage"
-version = "0.0.0"
+version = "0.1.0"
 description = "just a test"
 authors = ["samuli"]
 license = "MIT"
